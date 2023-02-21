@@ -8,19 +8,19 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\João Emanuel\\.nuget\\packages\\": {}
+    "C:\\Users\\Joao\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\João Emanuel\\source\\repos\\NewApp\\NewApp.csproj",
+      "projectUniqueName": "C:\\Users\\Joao\\source\\repos\\NewApp\\NewApp.csproj",
       "projectName": "NewApp",
-      "projectPath": "C:\\Users\\João Emanuel\\source\\repos\\NewApp\\NewApp.csproj",
-      "packagesPath": "C:\\Users\\João Emanuel\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\João Emanuel\\source\\repos\\NewApp\\obj\\",
+      "projectPath": "C:\\Users\\Joao\\source\\repos\\NewApp\\NewApp.csproj",
+      "packagesPath": "C:\\Users\\Joao\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Joao\\source\\repos\\NewApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\João Emanuel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Joao\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -60,7 +60,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.414\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.426\\RuntimeIdentifierGraph.json"
       }
     }
   }

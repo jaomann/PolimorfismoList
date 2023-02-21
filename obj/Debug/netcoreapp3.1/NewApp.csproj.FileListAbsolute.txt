@@ -12,3 +12,16 @@ C:\Users\João Emanuel\source\repos\NewApp\obj\Debug\netcoreapp3.1\NewApp.csproj
 C:\Users\João Emanuel\source\repos\NewApp\obj\Debug\netcoreapp3.1\NewApp.dll
 C:\Users\João Emanuel\source\repos\NewApp\obj\Debug\netcoreapp3.1\NewApp.pdb
 C:\Users\João Emanuel\source\repos\NewApp\obj\Debug\netcoreapp3.1\NewApp.genruntimeconfig.cache
+C:\Users\Joao\source\repos\NewApp\bin\Debug\netcoreapp3.1\NewApp.exe
+C:\Users\Joao\source\repos\NewApp\bin\Debug\netcoreapp3.1\NewApp.deps.json
+C:\Users\Joao\source\repos\NewApp\bin\Debug\netcoreapp3.1\NewApp.runtimeconfig.json
+C:\Users\Joao\source\repos\NewApp\bin\Debug\netcoreapp3.1\NewApp.runtimeconfig.dev.json
+C:\Users\Joao\source\repos\NewApp\bin\Debug\netcoreapp3.1\NewApp.dll
+C:\Users\Joao\source\repos\NewApp\bin\Debug\netcoreapp3.1\NewApp.pdb
+C:\Users\Joao\source\repos\NewApp\obj\Debug\netcoreapp3.1\NewApp.csproj.AssemblyReference.cache
+C:\Users\Joao\source\repos\NewApp\obj\Debug\netcoreapp3.1\NewApp.AssemblyInfoInputs.cache
+C:\Users\Joao\source\repos\NewApp\obj\Debug\netcoreapp3.1\NewApp.AssemblyInfo.cs
+C:\Users\Joao\source\repos\NewApp\obj\Debug\netcoreapp3.1\NewApp.csproj.CoreCompileInputs.cache
+C:\Users\Joao\source\repos\NewApp\obj\Debug\netcoreapp3.1\NewApp.dll
+C:\Users\Joao\source\repos\NewApp\obj\Debug\netcoreapp3.1\NewApp.pdb
+C:\Users\Joao\source\repos\NewApp\obj\Debug\netcoreapp3.1\NewApp.genruntimeconfig.cache
