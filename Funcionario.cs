@@ -6,13 +6,19 @@
     public int ID { get { return id; } }
     public double salario;
     public string nome;
+
     public Funcionario(string nome, double salario)
     {
-        _id += 1;
+        _id++;
         id = _id;
-
         this.nome = nome;
         this.salario = salario;
+    }
+    public virtual string toString()
+    {
+        return $"Nome: {nome}\n" +
+               $"Id: {ID}\n" +
+               $"Salario: {salario}";
     }
 
 }
